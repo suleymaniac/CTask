@@ -1,0 +1,10 @@
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\bin\Debug\PlaneApp.exe.config
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\bin\Debug\PlaneApp.exe
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\bin\Debug\PlaneApp.pdb
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\obj\Debug\PlaneApp.csprojAssemblyReference.cache
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\obj\Debug\PlaneApp.Form1.resources
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\obj\Debug\PlaneApp.Properties.Resources.resources
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\obj\Debug\PlaneApp.csproj.GenerateResource.cache
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\obj\Debug\PlaneApp.csproj.CoreCompileInputs.cache
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\obj\Debug\PlaneApp.exe
+C:\Users\ilias\source\repos\PlaneApp\PlaneApp\obj\Debug\PlaneApp.pdb
