@@ -1,0 +1,15 @@
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\bin\Debug\net6.0\CTask5.exe
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\bin\Debug\net6.0\CTask5.deps.json
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\bin\Debug\net6.0\CTask5.runtimeconfig.json
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\bin\Debug\net6.0\CTask5.dll
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\bin\Debug\net6.0\CTask5.pdb
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.csproj.AssemblyReference.cache
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.AssemblyInfoInputs.cache
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.AssemblyInfo.cs
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.csproj.CoreCompileInputs.cache
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.dll
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\refint\CTask5.dll
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.pdb
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\CTask5.genruntimeconfig.cache
+C:\Users\Илья Корнилов\source\repos\CTask5\CTask5\obj\Debug\net6.0\ref\CTask5.dll
