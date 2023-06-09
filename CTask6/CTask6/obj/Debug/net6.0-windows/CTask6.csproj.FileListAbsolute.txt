@@ -1,0 +1,17 @@
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\bin\Debug\net6.0-windows\CTask6.exe
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\bin\Debug\net6.0-windows\CTask6.deps.json
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\bin\Debug\net6.0-windows\CTask6.runtimeconfig.json
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\bin\Debug\net6.0-windows\CTask6.dll
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\bin\Debug\net6.0-windows\CTask6.pdb
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.csproj.AssemblyReference.cache
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.Form1.resources
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.csproj.GenerateResource.cache
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.AssemblyInfoInputs.cache
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.AssemblyInfo.cs
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.csproj.CoreCompileInputs.cache
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.dll
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\refint\CTask6.dll
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.pdb
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\CTask6.genruntimeconfig.cache
+C:\Users\Илья Корнилов\source\repos\CTask6\CTask6\obj\Debug\net6.0-windows\ref\CTask6.dll
